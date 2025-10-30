@@ -14,4 +14,6 @@ WRITE : /  'GİTHUB TEST BAŞARILI'.
 
 WRITE : /  'GİTHUB TEST WEB DEĞİŞİKLİK'.
 
+WRITE : /  'GİTHUB TEST WEB DEĞİŞİKLİK v2'.
+
 
