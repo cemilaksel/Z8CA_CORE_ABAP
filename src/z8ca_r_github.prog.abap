@@ -11,3 +11,7 @@ REPORT z8ca_r_github.
 WRITE : / 'Cemil Aksel-github test '.
 
 WRITE : /  'GİTHUB TEST BAŞARILI'.
+
+WRITE : /  'GİTHUB TEST WEB DEĞİŞİKLİK'.
+
+
